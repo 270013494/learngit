@@ -1,0 +1,37 @@
+novel_name,novel_categories,website_name,author_name,novel_url,book_number,novel_free_status,novel_status,update_time,comments,all_click,month_click,week_click,all_recommend,month_recommend,week_recommend
+
+----------+
+| 会员点击榜总榜 | 圣墟     | 玄幻           | 起点中文 | 辰东      | http://boo
+k.qidian.com/info/1004608738 | 1004608738  | NULL              | NULL         |
+NULL        | NULL     | 389840    | NULL        | NULL       | NULL          |
+NULL            | NULL           |
+| 推荐票榜月榜 | 圣墟     | 玄幻           | 起点中文 | 辰东      | http://book.
+qidian.com/info/1004608738 | 1004608738  | NULL              | NULL         | NU
+LL        | NULL     | NULL      | NULL        | NULL       | NULL          | 93
+0677          | NULL           |
+| 收藏榜  | 圣墟     | 玄幻           | 起点中文 | 辰东      | http://book.qidia
+n.com/info/1004608738 | 1004608738  | NULL              | NULL         | NULL
+     | NULL     | NULL      | NULL        | NULL       | NULL          | NULL
+         | NULL           |
+| 会员点击榜月榜 | 圣墟     | 玄幻           | 起点中文 | 辰东      | http://boo
+k.qidian.com/info/1004608738 | 1004608738  | NULL              | NULL         |
+NULL        | NULL     | NULL      | 186496      | NULL       | NULL          |
+NULL            | NULL           |
+| 推荐票榜总榜 | 圣墟     | 玄幻           | 起点中文 | 辰东      | http://book.
+qidian.com/info/1004608738 | 1004608738  | NULL              | NULL         | NU
+LL        | NULL     | NULL      | NULL        | NULL       | 2159236       | NU
+LL            | NULL           |
+| 推荐票榜周榜 | 圣墟     | 玄幻           | 起点中文 | 辰东      | http://book.
+qidian.com/info/1004608738 | 1004608738  | NULL              | NULL         | NU
+LL        | NULL     | NULL      | NULL        | NULL       | NULL          | NU
+LL            | 33890          |
+| 会员点击榜周榜 | 圣墟     | 玄幻           | 起点中文 | 辰东      | http://boo
+k.qidian.com/info/1004608738 | 1004608738  | NULL              | NULL         |
+NULL        | NULL     | NULL      | NULL        | 1922       | NULL          |
+NULL            | NULL           |
+| NULL       | 圣墟     | 玄幻           | 起点中文 | 辰东      | http://book.qi
+dian.com/info/1004608738 | 1004608738  | 免费            | 连载       | 2016-12-
+19 00:17 | 88882    | 232.69万 |             | 2205       | 216.16万     |
+           | 2.35万        |
++------------+------------+------------------+--------------+-------------+-----
+------+-------------+-------------------+--------------+-------------+----------
