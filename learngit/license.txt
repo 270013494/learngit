@@ -1,3 +1,0 @@
-novel_name,novel_categories,website_name,author_name,novel_url,book_number,novel_free_status,novel_status,update_time,comments,all_click,month_click,week_click,all_recommend,month_recommend,week_recommend
-
-----------+
